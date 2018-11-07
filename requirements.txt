@@ -1,0 +1,8 @@
+dlib
+
+face_recognition
+
+pytube
+
+backports.tempfile
+opencv-python
